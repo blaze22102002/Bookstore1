@@ -1,0 +1,14 @@
+D:\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+D:\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\BookStore\BookStore\bin\Debug\BookStore.exe.config
+D:\BookStore\BookStore\bin\Debug\BookStore.exe
+D:\BookStore\BookStore\bin\Debug\BookStore.pdb
+D:\BookStore\BookStore\obj\Debug\BookStore.exe
+D:\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\bbnit\Downloads\BookStore\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\bbnit\Downloads\BookStore\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\bbnit\Downloads\BookStore\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\bbnit\Downloads\BookStore\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+C:\Users\bbnit\Downloads\BookStore\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\bbnit\Downloads\BookStore\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\bbnit\Downloads\BookStore\BookStore\BookStore\obj\Debug\BookStore.pdb
